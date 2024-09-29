@@ -1,0 +1,3 @@
+Ok, you should have a look at the "New" folder, I documented a few more commands in there.
+
+Note: The script reference has never been completed, and never got released.
